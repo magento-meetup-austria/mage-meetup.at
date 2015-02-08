@@ -247,6 +247,21 @@ form {
   padding: 20px;
 }
 
+.call-to-action {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+  background-color: #ef672f;
+  border: 1px solid #ef672f;
+}
+
+.call-to-action:hover {
+  text-decoration: none;
+  color: #ef672f;
+  background-color: #fff;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
