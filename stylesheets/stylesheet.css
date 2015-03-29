@@ -273,7 +273,7 @@ Full-Width Styles
 .inner {
   position: relative;
   max-width: 640px;
-  padding: 20px 10px;
+  padding: 10px;
   margin: 0 auto;
 }
 
@@ -294,21 +294,6 @@ Full-Width Styles
 
 #header_wrap {
   background: #ef672f;
-}
-
-#project_title {
-  margin: 0;
-  color: #fff;
-  font-size: 42px;
-  font-weight: 700;
-}
-
-#project_tagline {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  background: none;
-  padding: 0;
 }
 
 #downloads {
@@ -376,10 +361,6 @@ Small Device Styles
   .inner {
     min-width: 320px;
     max-width: 480px;
-  }
-
-  #project_title {
-  font-size: 32px;
   }
 
   h1 {
