@@ -247,6 +247,20 @@ form {
   padding: 20px;
 }
 
+.left {
+  float: left;
+  width: 46%;
+}
+
+.right {
+  float: right;
+  width: 46%;
+}
+
+.clear {
+  clear: both;
+}
+
 .call-to-action {
   display: block;
   text-align: center;
