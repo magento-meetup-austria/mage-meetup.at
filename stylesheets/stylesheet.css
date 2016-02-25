@@ -51,7 +51,6 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#111;
-  background: #ef672f;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -69,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 36px;
   font-weight: 700;
+  line-height: 36px;
 }
 
 h2 {
@@ -135,8 +135,9 @@ strong {
 
 img {
   position: relative;
-  margin: 0 auto;
-  max-width: 739px;
+  margin: 0 auto 10px;
+  max-width: 640px;
+  width: 100%;
 }
 
 p img {
@@ -276,6 +277,27 @@ form {
   background-color: #fff;
 }
 
+.feature_container {
+    background-color: #ef672f;
+    border: 10px solid #fff;
+    border-bottom: 0 none transparent;
+    -webkit-box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
+    box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
+    padding: 10px;
+    position: relative;
+    top: -20px;
+}
+
+.feature {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.feature h1 {
+    margin-top: 0;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -289,6 +311,10 @@ Full-Width Styles
   max-width: 640px;
   padding: 10px;
   margin: 0 auto;
+}
+
+#main_content {
+  padding-top: 0;
 }
 
 #forkme_banner {
@@ -330,34 +356,13 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
-.tar_download_link {
-  display: block;
-  float: right;
-  width: 90px;
-  height:70px;
-  text-indent: -5000px;
-  overflow: hidden;
-  background: url(../images/sprite_download.png) no-repeat bottom right;
-  margin-left: 10px;
-}
-
 .zip_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top left;
-}
-
-.tar_download_link:hover {
-  background: url(../images/sprite_download.png) no-repeat top right;
-}
-
-#main_content_wrap {
-  background: #fff;
 }
 
 #footer_wrap {
   background: #ef672f;
 }
-
-
 
 /*******************************************************************************
 Small Device Styles
