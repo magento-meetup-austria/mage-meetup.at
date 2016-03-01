@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
     <title>Magento Meetup Wien - nächster Termin: 18.05.2016</title>
+    <link rel="stylesheet" href="stylesheets/blueimp-gallery.min.css" />
   </head>
 
   <body>
@@ -16,7 +17,7 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <img src="images/logo-640x284.png" alt="Magento Meetup Wien"/>
+          <img src="images/logo-640x284.png" alt="Magento Meetup Wien" class="logo"/>
         </header>
     </div>
 
@@ -58,8 +59,29 @@
             <li><a href="#magento-meetup-10">10. Magento-Stammtisch am 27.01.2015</a></li>
         </ul>
        <h3 id="magento-meetup-15">15. Magento-Stammtisch am 24.02.2016</h3>
-        <p>Bei unserem ersten Treffen im neuen Jahr am <strong>Mittwoch, 24. Februar 2016 ab 18:30 Uhr</strong> beschäftigen wir uns vor allem mit der neuen Version von Magento, Magento 2.</p>
-        <p>Wir freuen uns auf Ihr Kommen!</p>
+        <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-controls">
+            <div class="slides"></div>
+            <h3 class="title"></h3>
+            <a class="prev">‹</a>
+            <a class="next">›</a>
+            <a class="play-pause"></a>
+            <ol class="indicator"></ol>
+        </div>
+          <div id="links">
+              <a href="images/magento-meetup-15/01.jpg">
+                  <img src="images/magento-meetup-15/thumbnails/01.jpg">
+              </a>
+              <a href="images/magento-meetup-15/02.jpg">
+                  <img src="images/magento-meetup-15/thumbnails/02.jpg">
+              </a>
+              <a href="images/magento-meetup-15/03.jpg">
+                  <img src="images/magento-meetup-15/thumbnails/03.jpg">
+              </a>
+              <a href="images/magento-meetup-15/04.jpg">
+                  <img src="images/magento-meetup-15/thumbnails/04.jpg">
+              </a>
+          </div>
+        <p>Bei unserem ersten Treffen im neuen Jahr am <strong>Mittwoch, 24. Februar 2016 ab 18:30 Uhr</strong> beschäftigten wir uns mit der neuen Version von Magento, Magento 2.</p>
         <h3>Agenda</h3>
         <ul>
             <li>18:30 Uhr: Kennenlernen bei Pizza und Getränken, gesponsert von <a href="http://www.limesoda.com/">LimeSoda</a></li>
@@ -141,6 +163,15 @@
             } catch(err) {}
           </script>
 
-
+    <script src="javascripts/blueimp-gallery.min.js"></script>
+    <script>
+        blueimp.Gallery(
+                document.getElementById('links').getElementsByTagName('a'),
+                {
+                    container: '#blueimp-gallery',
+                    carousel: true
+                }
+        );
+    </script>
   </body>
 </html>

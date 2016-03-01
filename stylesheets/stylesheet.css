@@ -133,7 +133,7 @@ strong {
   font-weight: bold;
 }
 
-img {
+.logo {
   position: relative;
   margin: 0 auto 10px;
   max-width: 640px;
@@ -296,6 +296,10 @@ form {
 
 .feature h1 {
     margin-top: 0;
+}
+
+#links {
+  display: none;
 }
 
 /*******************************************************************************
