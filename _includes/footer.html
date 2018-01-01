@@ -1,0 +1,18 @@
+<div id="footer_wrap" class="outer">
+  <footer class="inner">
+    <p>Thanks to <a href="https://www.limesoda.com/">LimeSoda</a> for sponsoring the domain, location, meals and drinks!</p>
+  </footer>
+</div>
+
+{% if page.gallery.size > 0 %}
+<script src="{{ "javascripts/blueimp-gallery.min.js" | relative_url }}"></script>
+<script>
+    blueimp.Gallery(
+        document.getElementById('links').getElementsByTagName('a'),
+        {
+            container: '#blueimp-gallery',
+            carousel: true
+        }
+    );
+</script>
+{% endif %}

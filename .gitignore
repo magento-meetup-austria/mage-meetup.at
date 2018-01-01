@@ -48,4 +48,7 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
-
+# By Jekyll
+_site
+.sass-cache
+.jekyll-metadata

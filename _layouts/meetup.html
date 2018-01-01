@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<section id="main_content" class="inner">
+    <article class="meetup">
+
+        <header class="meetup-header">
+            <h1 class="meetup-title">{{ page.meetup_number | escape }}. Magento-Meetup am {{ page.meetup_date | date: "%d.%m.%Y" }}{% if page.meetup_city %} in {{ page.meetup_city | escape}}{% endif %}{% if page.subtitle %}: {{ page.subtitle | esacpe }}{% endif %}</h1>
+        </header>
+
+        <div class="meetup-content">
+
+            {% if page.gallery.size > 0 %}
+            <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-controls">
+                <div class="slides"></div>
+                <h3 class="title"></h3>
+                <a class="prev">‹</a>
+                <a class="next">›</a>
+                <a class="play-pause"></a>
+                <ol class="indicator"></ol>
+            </div>
+            <div id="links">
+                {% for image in page.gallery %}
+                <a href="{{ image | relative_url }}">
+                <img src="{{ image | relative_url }}">
+                </a>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            {{ content }}
+
+            <h3>Agenda</h3>
+
+            <ul>
+                {% if page.agenda.size > 0 %}
+                {% for item in page.agenda %}
+                <li>{{ item }}</li>
+                {% endfor %}
+                {% else %}
+                <li><strong>TBA</strong></li>
+                {% endif %}
+            </ul>
+        </div>
+
+    </article>
+</section>

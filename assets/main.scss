@@ -1,9 +1,8 @@
-/*******************************************************************************
-Slate Theme for GitHub Pages
-by Jason Costello, @jsncostello
-*******************************************************************************/
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 
-@import url(pygment_trac.css);
+@import 'slate-theme';
 
 /*******************************************************************************
 MeyerWeb Reset
@@ -229,19 +228,19 @@ table {
   border: 1px solid #ef672f;
   margin-bottom: 20px;
   text-align: left;
- }
+}
 
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
   background: #ef672f;
   color: #fff;
- }
+}
 
 td {
   padding: 10px;
   border: 1px solid #ef672f;
- }
+}
 
 form {
   background: #f2f2f2;
@@ -278,24 +277,24 @@ form {
 }
 
 .feature_container {
-    background-color: #ef672f;
-    border: 10px solid #fff;
-    border-bottom: 0 none transparent;
-    -webkit-box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
-    -moz-box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
-    box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
-    padding: 10px;
-    position: relative;
-    top: -20px;
+  background-color: #ef672f;
+  border: 10px solid #fff;
+  border-bottom: 0 none transparent;
+  -webkit-box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
+  -moz-box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
+  box-shadow: 0 19px 6px -15px rgba(0,0,0,0.55);
+  padding: 10px;
+  position: relative;
+  top: -20px;
 }
 
 .feature {
-    background-color: #fff;
-    padding: 10px;
+  background-color: #fff;
+  padding: 10px;
 }
 
 .feature h1 {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 #links {
@@ -417,3 +416,5 @@ Small Device Styles
   }
 
 }
+
+@import 'blueimp-gallery';
