@@ -1,5 +1,12 @@
 # magento-meetup.at
 
+## Setup
+
+* Clone this repository
+* Make sure you have installed the gems `jekyll` and `bundler`
+* Run `bundle exec jekyll serve --host=0.0.0.0` (omit the host parameter if you develop locally)
+  * If you get errors, try re-installing the gems which raise errors
+
 ## Add a new meetup
 
 * Edit the title in `index.md`
@@ -14,11 +21,9 @@
   * `registration` (optional): a hash containing one of these keys and the URL of the registration page as the value:
        - `xing`
        - `meetup`
-  * the body of the file contains the main text of the meetup  
+  * the body of the file contains the main text of the meetup
 
-## Development
+## Steps after a meetup is done
 
-* Clone this repository
-* Make sure you have installed the gems `jekyll` and `bundler`
-* Run `bundle exec jekyll serve --host=0.0.0.0` (omit the host parameter if you develop locally)
-  * If you get errors, try re-installing the gems which raise errors
+* Open the file in `_meetups/` and set `done:` to `yes`
+* Create a new meetup  
