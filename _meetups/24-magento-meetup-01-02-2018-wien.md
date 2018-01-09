@@ -7,7 +7,7 @@ agenda:
   - '18:30 Uhr: <strong>Einleitung und Magento News</strong> von Anna Völkl und Matthias Zeis'
   - 'Talk 1: <strong>The State of Chatbots in 2018</strong> von Christoph Rumpel (in English)'
   - 'Pause mit Pizza und Getränken'
-  - 'Talk 2: <strong>TBA</strong> von Stanislav Smovdorenko (in English)'
+  - 'Talk 2: <strong>Introduction to the new Magento Functional Testing Framework (MFTF)</strong> von Stanislav Smovdorenko (in English)'
   - 'Gemütliches Plaudern mit Open End'
 ---
 
