@@ -19,6 +19,7 @@
   * `agenda` (optional): array with the agenda items. put items in single quotes and use HTML
   * `gallery` (optional): array with relative paths to images
   * `registration` (optional): a hash containing one of these keys and the URL of the registration page as the value:
+       - `facebook`
        - `xing`
        - `meetup`
   * the body of the file contains the main text of the meetup

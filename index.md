@@ -44,6 +44,8 @@ title: 'Magento Meetup Austria - nächster Termin: 01.02.2018 in Wien!'
                    {% assign button_label = 'meetup.com' %}
                  {% when 'xing' %}
                    {% assign button_label = 'XING' %}
+                 {% when 'facebook' %}
+                   {% assign button_label = 'Facebook' %}
                  {% else %}
                    {% assign button_label = link[0] %}
                 {% endcase %}
