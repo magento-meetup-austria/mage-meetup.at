@@ -9,7 +9,7 @@ agenda:
   - 'Pause mit Pizza und Getränken'
   - 'Talk 2: <strong>Introduction to the new Magento Functional Testing Framework (MFTF)</strong> von Stanislav Smovdorenko (in English)'
   - 'Gemütliches Plaudern mit Open End'
-registration:
+registrations:
   - facebook: https://www.facebook.com/events/1809032829170795/
   - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/246677444/
   - xing: https://www.xing.com/events/24-magento-meetup-austria-1899013
