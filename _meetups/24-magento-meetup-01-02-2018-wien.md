@@ -8,7 +8,7 @@ agenda:
   - '18:30 Uhr: <strong>Einleitung und Magento News</strong> von Anna Völkl und Matthias Zeis'
   - 'Talk 1: <a href="https://speakerdeck.com/christophrumpel/the-state-of-chatbots-in-2018">The State of Chatbots in 2018</a> von Christoph Rumpel (in English)'
   - 'Pause mit Pizza und Getränken'
-  - 'Talk 2: <strong>Introduction to the new Magento Functional Testing Framework (MFTF)</strong> von Stanislav Smovdorenko (in English)'
+  - 'Talk 2: <a href="https://www.slideshare.net/StanislavSmovdorenko/introduction-to-magento-functional-testing-framework">Introduction to the new Magento Functional Testing Framework (MFTF)</a> von Stanislav Smovdorenko (in English)'
   - 'Gemütliches Plaudern mit Open End'
 registrations:
   - facebook: https://www.facebook.com/events/1809032829170795/
