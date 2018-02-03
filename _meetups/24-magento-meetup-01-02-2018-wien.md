@@ -49,6 +49,6 @@ Außerdem vielen Dank an <a href="https://www.limesoda.com/">LimeSoda</a> für d
 
 ### Videos
 
-* [Teil 1](https://www.facebook.com/limesoda.at/videos/10156346894334396/)
-* [Teil 2](https://www.facebook.com/limesoda.at/videos/10156346964774396/)
-* [Teil 3](https://www.facebook.com/limesoda.at/videos/10156347137819396/)
+* Teil 1: [Magento News &amp; Talk Christoph Rumpel Part 1](https://www.facebook.com/limesoda.at/videos/10156346894334396/)
+* Teil 2: [Talk Christoph Rumpel Part 2](https://www.facebook.com/limesoda.at/videos/10156346964774396/)
+* Teil 3: [Talk Stanislav Smovdorenko](https://www.facebook.com/limesoda.at/videos/10156347137819396/)
