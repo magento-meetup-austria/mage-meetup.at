@@ -43,10 +43,6 @@ gallery:
   - 'images/magento-meetup-24/26.jpg'
 ---
 
-Wir freuen uns auf unser 24. Magento Meetup Austria in Wien! Vielen Dank an unsere zwei Speaker Christoph und Stanislav, die uns von Chatbots und dem neuen Magento Functional Testing Framework (MFTF) erzählen.
+Vielen Dank an unsere zwei Speaker Christoph und Stanislav, die uns beim 24. Magento Meetup Austria am 1. Februar 2018 von Chatbots und dem neuen Magento Functional Testing Framework (MFTF) erzählt haben!
 
-Außerdem vielen Dank an LimeSoda für das Bereitstellen von Pizza, Getränken und der Location.
-
-Der Raum, Essen und Getränke werden gesponsert von <a href="https://www.limesoda.com/">LimeSoda</a>.
-
-Beste Grüße, <a href="http://anna.voelkl.at/">Anna Völkl</a> &amp; <a href="http://www.matthias-zeis.com/">Matthias Zeis</a>
+Außerdem vielen Dank an <a href="https://www.limesoda.com/">LimeSoda</a> für das Bereitstellen von Pizza, Getränken und der Location.
