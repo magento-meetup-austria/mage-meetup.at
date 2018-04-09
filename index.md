@@ -13,7 +13,7 @@ title: 'Magento Meetup Austria - nächster Termin: 01.02.2018 in Wien!'
         <h1>Nächste Veranstaltung</h1>
         {% assign future_meetups = site.meetups | where: 'done', 'no' | sort: 'meetup_number' %}
         {% if future_meetups.size == 0 %}
-        <p>Das nächste Meetup wird voraussichtlich im April 2018 in Wels stattfinden.</p>
+        <p>Das nächste Meetup wird am 2. Mai 2018 in Wels stattfinden.</p>
         {% else %}
         {% for meetup in future_meetups %}
         <h3><a href="{{ meetup.url }}">{{ meetup.meetup_number | escape }}. Magento-Meetup am {{ meetup.meetup_date | date: "%d.%m.%Y" }}{% if meetup.meetup_city %} in {{ meetup.meetup_city | escape}}{% endif %}{% if meetup.subtitle %}: {{ meetup.subtitle | esacpe }}{% endif %}</a></h3>
