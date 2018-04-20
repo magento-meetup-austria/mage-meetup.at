@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: 'Magento Meetup Austria - nächster Termin: 01.02.2018 in Wien!'
+title: 'Magento Meetup Austria - nächster Termin: 02.05.2018 in Wels!'
 ---
 <section id="main_content" class="inner">
 
@@ -13,7 +13,7 @@ title: 'Magento Meetup Austria - nächster Termin: 01.02.2018 in Wien!'
         <h1>Nächste Veranstaltung</h1>
         {% assign future_meetups = site.meetups | where: 'done', 'no' | sort: 'meetup_number' %}
         {% if future_meetups.size == 0 %}
-        <p>Der Termin für das nächste Meetup steht noch nicht fest.</p>
+        <p>Das nächste Meetup wird am 2. Mai 2018 in Wels stattfinden.</p>
         {% else %}
         {% for meetup in future_meetups %}
         <h3><a href="{{ meetup.url }}">{{ meetup.meetup_number | escape }}. Magento-Meetup am {{ meetup.meetup_date | date: "%d.%m.%Y" }}{% if meetup.meetup_city %} in {{ meetup.meetup_city | escape}}{% endif %}{% if meetup.subtitle %}: {{ meetup.subtitle | esacpe }}{% endif %}</a></h3>
