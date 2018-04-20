@@ -20,4 +20,8 @@ Wels veranstalten zu dürfen. Außerdem bedanken wir uns sehr bei unseren Speake
 
 Der Raum, Essen und Getränke werden gesponsert von <a href="https://www.e-conomix.at/">E-CONOMIX</a>.
 
+Damit alle unseren Meeting-Ort gut erreichen können, gibt es für alle TeilnehmerInnen ohne Auto einen
+<strong>kostenlosen Shuttle-Service vom Bahnhof Wels hin und zurück</strong>! Bitte tragen Sie sich bis zum 27.4. in
+unserem [Doodle](https://doodle.com/poll/9wywg5hp25nnyhqk) ein, wenn Sie das Shuttle in Anspruch nehmen wollen. Danke! 
+
 Beste Grüße, <a href="http://anna.voelkl.at/">Anna Völkl</a> &amp; <a href="http://www.matthias-zeis.com/">Matthias Zeis</a>
