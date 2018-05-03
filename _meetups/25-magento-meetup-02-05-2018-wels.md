@@ -2,7 +2,7 @@
 meetup_number: '25'
 meetup_date: '2018-05-02'
 meetup_city: 'Wels'
-done: 'no'
+done: 'yes'
 agenda:
   - '18:30 Uhr: <strong>Einleitung und Magento News</strong> von Anna Völkl und Matthias Zeis'
   - 'Talk 1: <strong>Payment Module in Magento 2</strong> von Ivan Dotsenko (in English)'
