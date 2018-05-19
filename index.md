@@ -10,6 +10,7 @@ title: 'Magento Meetup Austria - nächster Termin: Sommer 2018 in Wien!'
 <div class="feature_container">
     <div class="feature">
         <p>Hallo und herzlich willkommen! Dieses Meetup ist eine Veranstaltung von der Community für die Community. Wir treffen uns seit 2012 und diskutieren über Magento und E-Commerce.</p>
+        <p><em>Note: even if big parts of our communication is in German here, we do <strong>welcome English speaking attendees</strong>! Many talks are in English and you will find plenty of people to talk to. If you want to give a talk in English, you find all the necessary info <a href="/speaker-info">here</a>.</em></p>
         <h1>Nächste Veranstaltung</h1>
         {% assign future_meetups = site.meetups | where: 'done', 'no' | sort: 'meetup_number' %}
         {% if future_meetups.size == 0 %}
@@ -57,6 +58,9 @@ title: 'Magento Meetup Austria - nächster Termin: Sommer 2018 in Wien!'
         {% endif %}
         {% endfor %}
         {% endif %}
+        <h3>Speaker-Information</h3>
+        <p>Sie wollen einen Talk bei uns halten? Großartig! Sie finden alle nötigen Informationen
+        <a href="/speaker-info">hier</a>.</p>
     </div>
 </div>
 <p class="left"><a href="https://www.xing.com/communities/groups/magento-oesterreich-usergruppe-712b-1064068" class="call-to-action">Meetup bei XING</a></p>
