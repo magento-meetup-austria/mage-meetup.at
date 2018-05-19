@@ -3,9 +3,9 @@
 ## Setup
 
 * Clone this repository
-* Make sure you have installed the gems `jekyll` and `bundler`
-* Run `bundle exec jekyll serve --host=0.0.0.0` (omit the host parameter if you develop locally)
-  * If you get errors, try re-installing the gems which raise errors
+* Run the site using Docker:
+        
+        docker run -t --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
 
 ## Add a new meetup
 
