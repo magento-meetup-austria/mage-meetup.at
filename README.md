@@ -3,7 +3,7 @@
 ## Setup
 
 * Clone this repository
-* Run the site using Docker:
+* Run the site using Docker (thanks to [Starefossen](https://github.com/Starefossen/docker-github-pages)):
         
         docker run -t --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
 
