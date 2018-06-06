@@ -10,9 +10,9 @@ agenda:
   - 'Pause mit Grillen und Getränken'
   - 'Talk 2: <strong>High-Performance Magento 2</strong> von Konrad Androsch (in Deutsch)'
 registrations:
-  #- facebook: 
-  #- meetup: 
-  #- xing: 
+  - facebook: https://www.facebook.com/events/1256025657865371/ 
+  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/251471792/ 
+  - xing: https://www.xing.com/events/26-magento-meetup-austria-1954700
 gallery:
 ---
 
