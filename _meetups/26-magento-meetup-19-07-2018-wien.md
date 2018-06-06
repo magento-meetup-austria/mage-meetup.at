@@ -2,7 +2,7 @@
 meetup_number: '26'
 meetup_date: '2018-07-19'
 meetup_city: 'Wien'
-subtitle: 'Building Dev Teams'
+subtitle: 'Building Dev Teams & High Performance Magento 2'
 done: 'no'
 agenda:
   - '18:30 Uhr: <strong>Einleitung und Magento News</strong> von Anna Völkl und Matthias Zeis'
