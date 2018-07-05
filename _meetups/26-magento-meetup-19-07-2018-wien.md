@@ -5,9 +5,10 @@ meetup_city: 'Wien'
 subtitle: 'Building Dev Teams & High Performance Magento 2'
 done: 'no'
 agenda:
-  - '18:30 Uhr: <strong>Einleitung und Magento News</strong> von Anna Völkl und Matthias Zeis'
+  - 'ab 18:30 Uhr: Einlass mit Grillen und Getränken'
+  - '<strong>Einleitung und Magento News</strong> von Anna Völkl und Matthias Zeis'
   - 'Talk 1: <strong>Building an efficient dev team: Remote vs Inhouse</strong> von Ivan Cuk (in English)'
-  - 'Pause mit Grillen und Getränken'
+  - 'Pause'
   - 'Talk 2: <strong>High-Performance Magento 2</strong> von Konrad Androsch (in Deutsch)'
 registrations:
   - facebook: https://www.facebook.com/events/1256025657865371/ 
