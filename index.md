@@ -62,10 +62,11 @@ title: 'Magento Meetup Austria - nächster Termin: 19.07.2018 in Wien!'
         <a href="/speaker-info">hier</a>.</p>
     </div>
 </div>
-<p class="left"><a href="https://www.xing.com/communities/groups/magento-oesterreich-usergruppe-712b-1064068" class="call-to-action">Meetup bei XING</a></p>
-<p class="right"><a href="https://www.meetup.com/magento-meetup-austria/" class="call-to-action">Meetup auf meetup.com</a></p>
-<p class="left"><a href="http://facebook.com/pg/MageAT/" class="call-to-action">Meetup bei Facebook</a></p>
+<p class="left"><a href="https://www.youtube.com/channel/UCA33wzxGnUmyXTa4dGe7n6w" class="call-to-action">Meetup bei YouTube</a></p>
 <p class="right"><a href="https://www.slideshare.net/magentomeetupaustria/" class="call-to-action">Meetup bei Slideshare</a></p>
+<p class="left"><a href="https://www.meetup.com/magento-meetup-austria/" class="call-to-action">Meetup auf meetup.com</a></p>
+<p class="right"><a href="http://facebook.com/pg/MageAT/" class="call-to-action">Meetup bei Facebook</a></p>
+<p class="left"><a href="https://www.xing.com/communities/groups/magento-oesterreich-usergruppe-712b-1064068" class="call-to-action">Meetup bei XING</a></p>
 <h2 class="clear">Das Meetup auf Twitter: <a href="https://twitter.com/mage_AT">@mage_AT</a></h2>
   <p>Unser offizieller Account ist <a href="https://www.twitter.com/mage_AT">@mage_AT</a>. Bitte helfen Sie uns mit Mentions über @mage_AT oder #mageAT, neue BesucherInnen zu finden!</p>
   <a class="twitter-timeline"  href="https://twitter.com/hashtag/mageAT" data-widget-id="866591655037730816">#mageAT-Tweets</a>
