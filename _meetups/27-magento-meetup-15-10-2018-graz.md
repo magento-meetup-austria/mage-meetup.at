@@ -11,6 +11,9 @@ agenda:
   - 'Talk 2: <strong>Wir suchen noch eine/n SpeakerIn!</strong>'
   - 'Gemütliches Ausklingen bei leckeren Snacks und Getränken (Ende um 22:00 Uhr)'
 registrations:
+  - facebook: https://www.facebook.com/events/1314868798649515/
+  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/255166154/
+  - xing: https://www.xing.com/events/27-magento-meetup-austria-1994061
 gallery:
 ---
 
