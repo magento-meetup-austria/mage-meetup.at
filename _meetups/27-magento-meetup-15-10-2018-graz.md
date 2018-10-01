@@ -18,9 +18,20 @@ Magento Meetup goes Graz! Wir freuen uns auf das erste Event in der Steiermark p
 Webshop-BetreiberInnen, EntwicklerInnen, Agenturen oder einfach neugierige Köpfe - Wirecard CEE lädt Sie ein beim 1.
 Magento Meetup in Graz dabei zu sein.
 
+<strong>Wo?</strong>
+
+SFG - Steirische Wirtschaftsförderungsgesellschaft m.b.H.<br />
+Restaurant des SFG Impulszentrums „The Hive“<br />
+Reininghausstraße 13a<br />
+8020 Graz
+
+<strong>Um was geht es?</strong>
+
 Neugierige und interessierte Köpfe tauschen sich rund um das Thema Magento aus und erhalten spannende Insights. Egal vor
 welcher Herausforderung Sie stehen oder Sie generell Interesse an dem Shopsystem und dessen Funktionaltäten haben –
 kommen Sie einfach zu einem gemütlichen After-Work Treffen vorbei. 
+
+<strong>Vortragende gesucht</strong>
 
 Haben Sie auch Lust Ihr Wissen zu teilen? Wir sind noch auf der Suche nach einer zweiten Person, die Lust hat einen
 kurzen Talk zu halten. Melden Sie sich gerne bei Interesse!
