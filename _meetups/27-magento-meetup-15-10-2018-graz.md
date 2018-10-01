@@ -6,10 +6,10 @@ subtitle: 'Magento Live Europe & developing Magento extensions'
 done: 'no'
 agenda:
   - '18:00 Uhr: Intro'
-  - 'Rückblick: Magento Live Europe 2018'
+  - '<strong>Rückblick Magento Live Europe 2018 und Magento News</strong>' von Anna Völkl und Matthias Zeis
   - 'Talk 1: <strong>Developing Magento Extensions in a scaled agile framework</strong> von Hartwig Brandl (in English)'
   - 'Talk 2: <strong>Wir suchen noch eine/n SpeakerIn!</strong>'
-  - 'Gemütliches Ausklingen bei leckeren Snacks und Getränken'
+  - 'Gemütliches Ausklingen bei leckeren Snacks und Getränken (Ende um 22:00 Uhr)'
 registrations:
 gallery:
 ---
