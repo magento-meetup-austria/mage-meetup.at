@@ -17,7 +17,7 @@ registrations:
 gallery:
 ---
 
-Magento Meetup goes Graz! Wir freuen uns auf das erste Event in der Steiermark powered by Wirecard CEE. Ob (zukünftiger)
+Magento Meetup goes Graz! Wir freuen uns auf das erste Event in der Steiermark powered by Wirecard CEE. Ob (zukünftige/r)
 Webshop-BetreiberInnen, EntwicklerInnen, Agenturen oder einfach neugierige Köpfe - Wirecard CEE lädt Sie ein beim 1.
 Magento Meetup in Graz dabei zu sein.
 
