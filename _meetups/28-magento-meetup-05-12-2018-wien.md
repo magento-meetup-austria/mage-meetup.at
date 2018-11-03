@@ -8,8 +8,9 @@ agenda:
   - 'ab 18:30 Uhr: Einlass & Essen'
   - '<strong>Rückblick Magento News</strong> von Anna Völkl und Matthias Zeis'
   - 'Talk 1: <strong>TBA</strong> von Stephan Hochdörfer'
+  - 'Pause mit Pizza und Getränken'
   - 'Talk 2: <strong>TBA</strong> von Wolfgang Hotwagner'
-  - 'Gemütliches Ausklingen bei leckeren Snacks und Getränken'
+  - 'Gemütliches Plaudern mit Open End'
 registrations:
 gallery:
 ---
