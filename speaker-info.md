@@ -66,7 +66,7 @@ website.</p>
 nearby.</li>
 <li><strong>Parking Spot</strong><br />If you come by car and want to park inside our courtyard, please call us before
 so we can check if we have a spot left.</li>
-<li><strong>Preparation / Workplace</strong><br />If you want to come a bit earlier to prepare or work, pleas tell us.
+<li><strong>Preparation / Workplace</strong><br />If you want to come a bit earlier to prepare or work, please tell us.
 We will be able to find a spot in our office.</li>
 <li><strong>Food & Drinks</strong><br />Just like any attendee, you will be cared for :) Please tell us if you have any
 special needs (allergies etc.).</li>
