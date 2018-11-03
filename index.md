@@ -25,7 +25,7 @@ title: 'Magento Meetup Austria - nächster Termin: 05.12.2018 in Wien!'
         <ul>
             {% if meetup.agenda.size > 0 %}
             {% for item in meetup.agenda %}
-            <li>{{ item }}</li>
+            <li>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
             {% endfor %}
             {% else %}
             <li><strong>TBA</strong></li>

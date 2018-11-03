@@ -6,10 +6,10 @@ subtitle: 'GitLab CI and Websecurity'
 done: 'no'
 agenda:
   - 'ab 18:30 Uhr: Einlass & Essen'
-  - '<strong>Rückblick Magento News</strong> von Anna Völkl und Matthias Zeis'
-  - 'Talk 1: <strong>TBA</strong> von Stephan Hochdörfer'
+  - '**Rückblick Magento News** von Anna Völkl und Matthias Zeis'
+  - 'Talk 1: **TBA** von Stephan Hochdörfer'
   - 'Pause mit Pizza und Getränken'
-  - 'Talk 2: <strong>TBA</strong> von Wolfgang Hotwagner'
+  - 'Talk 2: **TBA** von Wolfgang Hotwagner'
   - 'Gemütliches Plaudern mit Open End'
 registrations:
 gallery:

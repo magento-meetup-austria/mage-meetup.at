@@ -16,7 +16,7 @@
   * `meetup_city`: city of the meetup
   * `subtitle` (optional): title of the meetup
   * `done` [yes|no]: whether the meetup is completed
-  * `agenda` (optional): array with the agenda items. put items in single quotes and use HTML
+  * `agenda` (optional): array with the agenda items. put items in single quotes and use Markdown or HTML
   * `gallery` (optional): array with relative paths to images
   * `registrations` (optional): a hash containing one of these keys and the URL of the registration page as the value:
        - `facebook`
