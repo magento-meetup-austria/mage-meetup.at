@@ -2,7 +2,7 @@
 meetup_number: '23'
 meetup_date: '2017-12-07'
 meetup_city: 'Wien'
-subtitle: 'Magento 2 B2B, Cashpresso &amp; David Manners'
+subtitle: 'Magento 2 B2B, Cashpresso & David Manners'
 done: 'yes'
 agenda:
   - '18:30 Uhr: <b>Einleitung und Magento News</b> von Anna Völkl und Matthias Zeis'

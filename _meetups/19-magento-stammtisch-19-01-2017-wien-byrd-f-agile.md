@@ -2,7 +2,7 @@
 meetup_number: '19'
 meetup_date: '2017-01-19'
 meetup_city: 'Wien'
-subtitle: 'byrd &amp; F*** Agile'
+subtitle: 'byrd & F*** Agile'
 done: 'yes'
 agenda:
   - '18:30 Uhr: Kennenlernen bei Pizza und Getränken, gesponsert von <a href="https://www.limesoda.com/">LimeSoda</a>'

@@ -2,7 +2,7 @@
 meetup_number: '24'
 meetup_date: '2018-02-01'
 meetup_city: 'Wien'
-subtitle: 'Chatbots &amp; MFTF'
+subtitle: 'Chatbots & MFTF'
 done: 'yes'
 agenda:
   - '18:30 Uhr: <strong>Einleitung und Magento News</strong> von Anna Völkl und Matthias Zeis'

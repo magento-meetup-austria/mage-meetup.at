@@ -2,7 +2,7 @@
 meetup_number: '18'
 meetup_date: '2016-11-22'
 meetup_city: 'Wien'
-subtitle: 'Dev &amp; Ops, Lizards &amp; Pumpkins'
+subtitle: 'Dev & Ops, Lizards & Pumpkins'
 done: 'yes'
 agenda:
   - '18:30 Uhr: Kennenlernen bei Pizza und Getränken, gesponsert von <a href="https://www.limesoda.com/">LimeSoda</a>'

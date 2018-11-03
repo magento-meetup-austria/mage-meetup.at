@@ -2,7 +2,7 @@
 meetup_number: '17'
 meetup_date: '2016-09-21'
 meetup_city: 'Wien'
-subtitle: 'Sherrie Rohde &amp; Migration zu M2'
+subtitle: 'Sherrie Rohde & Migration zu M2'
 done: 'yes'
 agenda:
   - '18:30 Uhr: Kennenlernen bei Pizza und Getränken, gesponsert von <a href="https://www.limesoda.com/">LimeSoda</a>'

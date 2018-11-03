@@ -2,7 +2,7 @@
 meetup_number: '14'
 meetup_date: '2015-11-24'
 meetup_city: 'Wien'
-subtitle: 'Magento News &amp; SEOkomm'
+subtitle: 'Magento News & SEOkomm'
 done: 'yes'
 agenda:
   - '18:30 Uhr: Kennenlernen bei Pizza und Getränken, gesponsert von <a href="https://www.limesoda.com/">LimeSoda</a>'
