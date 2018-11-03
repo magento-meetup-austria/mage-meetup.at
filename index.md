@@ -17,7 +17,7 @@ title: 'Magento Meetup Austria - nächster Termin: 05.12.2018 in Wien!'
         <p>Das nächste Meetup wird im Herbst stattfinden. Details folgen.</p>
         {% else %}
         {% for meetup in future_meetups %}
-        <h3><a href="{{ meetup.url }}">{{ meetup.meetup_number | escape }}. Magento-Meetup am {{ meetup.meetup_date | date: "%d.%m.%Y" }}{% if meetup.meetup_city %} in {{ meetup.meetup_city | escape}}{% endif %}{% if meetup.subtitle %}: {{ meetup.subtitle | esacpe }}{% endif %}</a></h3>
+        <h3><a href="{{ meetup.url }}">{{ meetup.meetup_number | escape }}. Magento-Meetup am {{ meetup.meetup_date | date: "%d.%m.%Y" }}{% if meetup.meetup_city %} in {{ meetup.meetup_city | escape}}{% endif %}{% if meetup.subtitle %}: {{ meetup.subtitle | escape }}{% endif %}</a></h3>
         {{ meetup.content }}
         
         <h3>Agenda</h3>
@@ -78,7 +78,7 @@ title: 'Magento Meetup Austria - nächster Termin: 05.12.2018 in Wien!'
 
 <ul>
 {% for meetup in past_meetups %}
-  <li><a href="{{ meetup.url }}">{{ meetup.meetup_number | escape }}. Magento-Meetup am {{ meetup.meetup_date | date: "%d.%m.%Y" }}{% if meetup.meetup_city %} in {{ meetup.meetup_city | escape}}{% endif %}{% if meetup.subtitle %}: {{ meetup.subtitle | esacpe }}{% endif %}</a></li>
+  <li><a href="{{ meetup.url }}">{{ meetup.meetup_number | escape }}. Magento-Meetup am {{ meetup.meetup_date | date: "%d.%m.%Y" }}{% if meetup.meetup_city %} in {{ meetup.meetup_city | escape}}{% endif %}{% if meetup.subtitle %}: {{ meetup.subtitle | escape }}{% endif %}</a></li>
 {% endfor %}
 </ul>
 
