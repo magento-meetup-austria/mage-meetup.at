@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Magento Meetup Austria - Speaker Info'
+loadgallery: true
 ---
 <section id="main_content" class="inner">
 
@@ -32,9 +33,29 @@ website.</p>
 
 <h2>The locations</h2>
 
-<h3>Wien (Vienna)</h3>
+<h3 id="location-vienna">Wien (Vienna)</h3>
 
 <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJv4Wc-NwHbUcRcLeIfuZb_Wc&key=AIzaSyB4feGb0vUj4ejiTbP0TsW7U0NCy8cqA6Y" allowfullscreen></iframe> 
+
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-controls">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+<div id="links">
+    <a href="images/locations/vienna-01.jpg" title="Your view from the front. The big table will be split up into four.">
+      <img src="images/locations/vienna-01.jpg" alt="Your view from the front. The big table will be split up into four." />
+    </a>
+    <a href="images/locations/vienna-02.jpg" title="The beamer screen can be used to show slides or videos.">
+      <img src="images/locations/vienna-02.jpg" alt="The beamer screen can be used to show slides or videos." />
+    </a>
+    <a href="images/locations/vienna-03.jpg" title="View of the complete room from behind.">
+      <img src="images/locations/vienna-03.jpg" alt="View of the complete room from behind." />
+    </a>
+</div>
 
 <h4>Address</h4>
 <p>LimeSoda Office Wien<br />Syringgasse 5<br />1170 Wien</p>
@@ -52,6 +73,8 @@ special needs (allergies etc.).</li>
 <li><strong>Internet</strong><br />We have WLAN access for you.</li>
 <li><strong>Location</strong><br />Our lounge has space for about 30 people. Find some images in our
 <a href="http://mage-meetup.at/meetups/24-magento-meetup-01-02-2018-wien">24. meetup gallery</a>.</li>
+<li><strong>Stage</strong><br />The stage in front is about five meters wide, so you can move around a bit. We don't
+have a speaker lectern for your laptop at the moment but you can put it on the side or one of the first tables.</li>
 <li><strong>Equipment</strong><br />We do have a <strong>Full-HD beamer</strong>. We also have the usual connectors from
 your source to HDMI but please tell us what you need or bring your own to-HDMI connector.<br />We can provide you with a
 <strong><a href="https://www.logitech.com/de-at/product/wireless-presenter-r400">presentation remote</a></strong> and

@@ -4,7 +4,7 @@
   </footer>
 </div>
 
-{% if page.gallery.size > 0 %}
+{% if page.gallery.size > 0 or page.loadgallery == true %}
 <script src="{{ "javascripts/blueimp-gallery.min.js" | relative_url }}"></script>
 <script>
     blueimp.Gallery(
