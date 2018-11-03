@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: 'Magento Meetup Austria - nächster Termin: 15.10.2018 in Graz!'
+title: 'Magento Meetup Austria - nächster Termin: 05.12.2018 in Wien!'
 ---
 <section id="main_content" class="inner">
 
