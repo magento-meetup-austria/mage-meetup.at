@@ -2,15 +2,15 @@
 meetup_number: '28'
 meetup_date: '2018-12-05'
 meetup_city: 'Wien'
-subtitle: 'GitLab CI and Websecurity'
+subtitle: 'GitLab CI and Docker system live-hack'
 done: 'no'
 agenda:
-  - 'ab 18:30 Uhr: Einlass & Essen'
-  - '**Rückblick Magento News** von Anna Völkl und Matthias Zeis'
-  - 'Talk 1: **Magento from dev to prod with GitLab CI** von Stephan Hochdörfer'
-  - 'Pause mit Pizza und Getränken'
-  - 'Talk 2: **TBA** von Wolfgang Hotwagner'
-  - 'Gemütliches Plaudern mit Open End'
+  - 'from 18:30: entrance & food'
+  - '**Magento News** by Anna Völkl and Matthias Zeis'
+  - 'Talk 1: **Magento from dev to prod with GitLab CI** by Stephan Hochdörfer (German/English)'
+  - 'Break'
+  - 'Talk 2: **Stairway to root** by Wolfgang Hotwagner (German)'
+  - 'Chatting and networking until 22:30'
 registrations:
 gallery:
 ---
@@ -28,3 +28,14 @@ for Magento:
 > In this session I will show you how we build and maintain our Continuous Delivery pipeline using tools like GitLab CI,
 > Docker, Nexus and Traefik. Together we will take a deep dive into the GitLab CI Build Pipelines to build and deploy
 > docker containers to dev, stage and production environments.
+
+Stephan will do his talk in English if we have attendees not speaking German.
+
+In our second talk, Wolfgang will lead us on the road to root access in a Magento setup:
+
+> Dieser Vortrag zeigt die Sicht eines Angreifers. Anhand eines Livehacks wird ein Server mit mehreren Magento
+> Docker-Containern Schritt für Schritt eingenommen. Damit soll aufgezeigt werden, wie die Verkettung vieler "kleiner"
+> Fehler zu einem schwerwiegenden Sicherheitsrisiko führen können. Der Weg führt dabei vom Development-Container bis hin
+> zum root-Account im Docker-Host.
+
+Wolfgangs talk will be in German.
