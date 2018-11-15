@@ -12,6 +12,9 @@ agenda:
   - 'Talk 2: **Stairway to root** by Wolfgang Hotwagner (German)'
   - 'Chatting and networking until 22:30'
 registrations:
+  - xing: https://www.xing.com/events/28-magento-meetup-austria-2027211
+  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/256435395/
+  - facebook: https://www.facebook.com/events/1938586189589381/
 gallery:
 ---
 
