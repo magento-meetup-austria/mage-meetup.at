@@ -38,7 +38,7 @@ In our second talk, Wolfgang will lead us on the road to root access in a Magent
 
 > Dieser Vortrag zeigt die Sicht eines Angreifers. Anhand eines Livehacks wird ein Server mit mehreren Magento
 > Docker-Containern Schritt für Schritt eingenommen. Damit soll aufgezeigt werden, wie die Verkettung vieler "kleiner"
-> Fehler zu einem schwerwiegenden Sicherheitsrisiko führen können. Der Weg führt dabei vom Development-Container bis hin
+> Fehler zu einem schwerwiegenden Sicherheitsrisiko führen kann. Der Weg führt dabei vom Development-Container bis hin
 > zum root-Account im Docker-Host.
 
 Wolfgangs talk will be in German.
