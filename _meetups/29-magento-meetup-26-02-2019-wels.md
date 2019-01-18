@@ -6,7 +6,7 @@ subtitle: 'DSGVO & Magento Features'
 done: 'no'
 agenda:
   - '**Magento News** by Anna Völkl and Matthias Glitzner-Zeis'
-  - 'Talk 1: **[Magento & DSGVO** by Manuel Baumgartner (German or English)'
+  - 'Talk 1: **Magento & DSGVO** by Manuel Baumgartner (German or English)'
   - 'Discussion: **Magento Features** with Benjamin Rosenberger (German or English)'
   - 'Food & drinks'
   - 'Chatting and networking'
