@@ -6,9 +6,9 @@ subtitle: 'DSGVO & Magento Features'
 done: 'yes'
 agenda:
   - '**[Magento News](https://www.slideshare.net/magentomeetupaustria/29-magento-meetup-austria-news)** by Anna Völkl and Matthias Glitzner-Zeis'
-  - 'Talk 1: **[Magento & DSGVO](https://www.slideshare.net/magentomeetupaustria/29-magento-meetup-datareporter)** by Manuel Baumgartner (German)'
+  - 'Talk 1: **[Magento & DSGVO](https://www.slideshare.net/magentomeetupaustria/29-magento-meetup-datareporter)** by Manuel Baumgartner (English slides)'
   - 'Food & drinks'  
-  - 'Talk 2: **Magento Features** with Benjamin Rosenberger (German)'
+  - 'Talk 2: **[Magento Features: Why the hell did I choose Magento 2?](https://www.slideshare.net/magentomeetupaustria/29-magento-meetup-why-the-hell-did-i-chose-magento-2)** with Benjamin Rosenberger (English slides)'
   - 'Chatting and networking'
 registrations:
   - xing: https://www.xing.com/events/29-magento-meetup-austria-2049320
