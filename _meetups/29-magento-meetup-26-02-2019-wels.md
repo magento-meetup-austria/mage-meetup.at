@@ -21,4 +21,7 @@ gallery:
   - 'images/magento-meetup-29/04.jpg'
   - 'images/magento-meetup-29/05.jpg'
   - 'images/magento-meetup-29/06.jpg'
+  - 'images/magento-meetup-29/07.jpg'
+  - 'images/magento-meetup-29/08.jpg'
+  - 'images/magento-meetup-29/09.jpg'
 ---
