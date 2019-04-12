@@ -23,20 +23,20 @@ many attendees!
 Our first talk will be held by **Tsvetan Stoychev**. Tsvetan will talk about Web Performance Metrics and give us
 examples from production Magento shops:
 
-    DON'T GUESS. MEASURE.", I've been looking at this slogan on a office wall every work day during last 2 years. By
-    chance I became interested in Web Performance optimizations about 2 years ago and since today I still keep repeating
-    to myself "DON'T GUESS. MEASURE." before and after I improve performance.
-    
-    Measuring results before and after performance optimization is essential. It keeps our projects healthy, ensures
-    that we do not create a performance regression and helps us find out the next performance bottleneck.
-    
-    In this talk I would like to share:
-    
-    - Some of the interesting fronted performance metrics?
-    - How can we track those metrics?
-    - What I've learned about performance monitoring? As a bonus I will demonstrate
-     [Basic RUM](https://github.com/basicrum/backoffice an open source project that helps developers track frontend
-       performance. Of course all this knowledge was gained while monitoring and auditing custom Magento 1.x themes.
+> DON'T GUESS. MEASURE.", I've been looking at this slogan on a office wall every work day during last 2 years. By
+> chance I became interested in Web Performance optimizations about 2 years ago and since today I still keep repeating
+> to myself "DON'T GUESS. MEASURE." before and after I improve performance.
+> 
+> Measuring results before and after performance optimization is essential. It keeps our projects healthy, ensures
+> that we do not create a performance regression and helps us find out the next performance bottleneck.
+> 
+> In this talk I would like to share:
+> 
+> * Some of the interesting fronted performance metrics?
+> * How can we track those metrics?
+> * What I've learned about performance monitoring? As a bonus I will demonstrate
+>   [Basic RUM](https://github.com/basicrum/backoffice) an open source project that helps developers track frontend
+>   performance. Of course all this knowledge was gained while monitoring and auditing custom Magento 1.x themes.
 
 Thank you a lot for giving this talk, Tsvetan!
 
