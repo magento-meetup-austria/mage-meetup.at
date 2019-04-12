@@ -17,7 +17,7 @@ Hi!
 Again, we have something to celebrate: this is our **30th Magento Meetup** in Austria. A BIG thank you to everybody
 making this possible!
 
-This time, we are meeting in **Vienna* in the 17th district ain the LimeSoda office. We are looking forward to welcome
+This time, we are meeting in **Vienna** in the 17th district ain the LimeSoda office. We are looking forward to welcome
 many attendees!
 
 Our first talk will be held by **Tsvetan Stoychev**. Tsvetan will talk about Web Performance Metrics and give us
