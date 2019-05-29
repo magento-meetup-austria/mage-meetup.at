@@ -22,7 +22,6 @@ gallery:
   - 'images/magento-meetup-30/07.jpg'
   - 'images/magento-meetup-30/08.jpg'
   - 'images/magento-meetup-30/09.jpg'
-  - 'images/magento-meetup-30/10.jpg'
 ---
 
 Hi!
