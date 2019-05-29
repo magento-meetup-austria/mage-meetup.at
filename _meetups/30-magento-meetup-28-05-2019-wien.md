@@ -3,17 +3,26 @@ meetup_number: '30'
 meetup_date: '2019-05-28'
 meetup_city: 'Wien'
 subtitle: 'Web Performance Metrics'
-done: 'no'
+done: 'yes'
 agenda:
-  - '**Magento News** by Anna Völkl and Matthias Glitzner-Zeis'
-  - 'Talk 1: **Web Performance Metrics: Examples from production Magento shops** by Tsvetan Stoychev (English)'
-  - 'Food & drinks'  
-  - 'Topic 2: **TBA** Please tell us if you want to talk!'
-  - 'Chatting and networking'
+  - '**[Magento News](https://www.slideshare.net/magentomeetupaustria/30-magento-meetup-austria-news)** by Anna Völkl and Matthias Glitzner-Zeis'
+  - 'Talk: **[Web Performance Metrics: Examples from production Magento shops](https://prezi.com/p/on4d28evtzph/dont-guess-measure/)** by Tsvetan Stoychev (English)'
+  - 'Food & drinks, chatting and networking'
 registrations:
   - xing: https://www.xing.com/events/30-magento-meetup-austria-2086560
   - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/260568282/
   - facebook: https://www.facebook.com/events/801581060235030/
+gallery:
+  - 'images/magento-meetup-30/01.jpg'
+  - 'images/magento-meetup-30/02.jpg'
+  - 'images/magento-meetup-30/03.jpg'
+  - 'images/magento-meetup-30/04.jpg'
+  - 'images/magento-meetup-30/05.jpg'
+  - 'images/magento-meetup-30/06.jpg'
+  - 'images/magento-meetup-30/07.jpg'
+  - 'images/magento-meetup-30/08.jpg'
+  - 'images/magento-meetup-30/09.jpg'
+  - 'images/magento-meetup-30/10.jpg'
 ---
 
 Hi!
