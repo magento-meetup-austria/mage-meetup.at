@@ -10,7 +10,7 @@ agenda:
   - 'Talk 2: We are looking for YOUR talk!'
   - 'Food & drinks, chatting and networking'
 registrations:
-  - xing: https://www.xing.com
+  - xing: https://www.xing.com/events/31-magento-meetup-austria-2148747
   - meetup: https://www.meetup.com/magento-meetup-austria/events/264520081/
   - facebook: https://www.facebook.com/events/877185462666185/
 gallery:
