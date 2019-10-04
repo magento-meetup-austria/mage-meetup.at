@@ -7,7 +7,7 @@ done: 'no'
 agenda:
   - '**Magento News** by Anna Völkl and Matthias Glitzner-Zeis'
   - 'Talk 1: **Learnings from a Magento 2.3.2 projekct** by Anna Völkl (German or English)'
-  - 'Talk 2: We are looking for YOUR talk!'
+  - 'Talk 2: **Nahtlose Integration von Magento und WordPress trotz „Standalone“-Systeme** by Petra Reichensperger'
   - 'Food & drinks, chatting and networking'
 registrations:
   - xing: https://www.xing.com/events/31-magento-meetup-austria-2148747
