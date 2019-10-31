@@ -7,8 +7,8 @@ done: 'no'
 agenda:
   - '18:00: Einlass, Essen & Getränke'
   - '**Magento News** von Anna Völkl und Matthias Glitzner-Zeis'
-  - 'Talk 1: **TBA** von Bernd Pfeiffer (German/English)
-  - 'Talk 2: **Bitte melde dich über <a href="https://twitter.com/mage_AT">Twitter</a> oder in einem der Event (siehe Registrierungslinks)!**'
+  - 'Talk 1: **TBA** von Bernd Pfeiffer (German/English)'
+  - 'Talk 2: **Bitte melde dich überTwitter</a> oder in einem der Event (siehe Registrierungslinks)!**'
   - 'Plaudern und Networking'
 registrations:
   - xing: https://www.xing.com/events/32-magento-meetup-austria-2351494
