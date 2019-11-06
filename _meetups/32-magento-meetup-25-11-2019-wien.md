@@ -8,7 +8,7 @@ agenda:
   - '18:00: Einlass, Essen & Getränke'
   - 'Talk 1: **Was ist ein Wort wert? / how much is a word worth?** von Bernd Pfeiffer (Deutsch/English)'
   - '**Magento News** von Anna Völkl und Matthias Glitzner-Zeis'
-  - 'Talk 2: **Deklarativer Import (Magento 2 Import Framework** von Tim Wagner (Deutsch/English)'
+  - 'Talk 2: **Deklarativer Import (Magento 2 Import Framework)** von Tim Wagner (Deutsch/English)'
   - 'Plaudern und Networking'
 registrations:
   - xing: https://www.xing.com/events/32-magento-meetup-austria-2351494
@@ -22,7 +22,9 @@ Hallo!
 Am **25. November** laden wir euch zu unserem **32. Magento Meetup** in Österreich ein! Diesmal sind wir zurück in Wien
 in der Lounge von LimeSoda im 17. Bezirk. Wir hoffen, viele von euch zu sehen!
 
-Wir starten um **18:00 Uhr**. 
+Wir starten um **18:00 Uhr**.
+
+**Note**: the talks will be held in English or German, depending on our attendees.
 
 Im **ersten Talk** erzählt Bernd Pfeiffer von **kleinen Änderungen mit großer Wirkung** - was Details in der
 Onlinekommunikation und bei Conversions ausmachen.
