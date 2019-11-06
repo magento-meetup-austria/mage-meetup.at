@@ -2,7 +2,7 @@
 meetup_number: '32'
 meetup_date: '2019-11-25'
 meetup_city: 'Wien'
-subtitle: ''
+subtitle: 'Conversions und Daten-Importe'
 done: 'no'
 agenda:
   - '18:00: Einlass, Essen & Getränke'
