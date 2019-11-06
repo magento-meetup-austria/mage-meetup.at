@@ -19,8 +19,8 @@ registrations:
 
 Hallo!
 
-Am 25. November laden wir euch zu unserem **32. Magento Meetup** in Österreich ein! Diesmal sind wir zurück in Wien in
-der Lounge von LimeSoda im 17. Bezirk. Wir hoffen, viele von euch zu sehen!
+Am **25. November** laden wir euch zu unserem **32. Magento Meetup** in Österreich ein! Diesmal sind wir zurück in Wien
+in der Lounge von LimeSoda im 17. Bezirk. Wir hoffen, viele von euch zu sehen!
 
 Wir starten um **18:00 Uhr**. 
 
