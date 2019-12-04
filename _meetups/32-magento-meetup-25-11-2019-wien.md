@@ -3,7 +3,7 @@ meetup_number: '32'
 meetup_date: '2019-11-25'
 meetup_city: 'Wien'
 subtitle: 'Conversions und Daten-Importe'
-done: 'no'
+done: 'yes'
 agenda:
   - '18:00: Einlass, Essen & Getränke'
   - 'Talk 1: **Was ist ein Wort wert? / how much is a word worth?** von Bernd Pfeiffer (Deutsch/English)'
