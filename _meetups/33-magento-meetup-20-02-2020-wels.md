@@ -7,7 +7,7 @@ done: 'no'
 agenda:
   - '18:00: Einlass'
   - '**Magento News** von Anna Völkl und Matthias Glitzner-Zeis'
-  - 'Talk 1: **Magento 2 - the better CMS: Nahtlose Integration von Magento und TYPO3 trotz Standalone Systeme* von Benjamin Rosenberger (Deutsch/English)'
+  - 'Talk 1: **Magento 2 - the better CMS: Nahtlose Integration von Magento und TYPO3 trotz Standalone Systeme** von Benjamin Rosenberger (Deutsch/English)'
   - 'Talk 2: **DSGVO Consent Management – Einholung von datenschutzrechtlichen Einwilligungen in Shop-Systemen** von Rechtsanwalt Peter Harlander (Deutsch)'
   - 'Plaudern und Networking'
 registrations:
