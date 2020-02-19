@@ -8,7 +8,7 @@ agenda:
   - '18:00: Einlass'
   - '**Magento News** von Anna Völkl und Matthias Glitzner-Zeis'
   - 'Talk 1: **Magento 2 - the better CMS: Nahtlose Integration von Magento und TYPO3 trotz Standalone Systeme* von Benjamin Rosenberger (Deutsch/English)'
-  - 'Talk 2: Hier könnte dein Talk stehen!'
+  - 'Talk 2: **DSGVO Consent Management – Einholung von datenschutzrechtlichen Einwilligungen in Shop-Systemen** von Rechtsanwalt Peter Harlander (Deutsch)'
   - 'Plaudern und Networking'
 registrations:
   - xing: https://www.xing.com/events/33-magento-meetup-austria-2519482
