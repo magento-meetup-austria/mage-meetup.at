@@ -19,8 +19,9 @@ registrations:
 
 Hallo!
 
-Am **16. April 2020** laden wir euch zu unserem **34. Magento Meetup** in Österreich ein! Diesmal sind wir zum ersten Mal zu Gast in Salzburg, im LOOP Office. Wir hoffen, viele von euch zu sehen!
+Update. Aufgrund der aktuellen Lage betreffend **Coronavirus/COVID-19** werden wir das Meetup am 16. April in Salzburg auf einen anderen Zeitpunkt **verschieben**. Wir haben bereits einen neuen Termin im Auge, werden aber noch abwarten, wie sich die Lage entwickelt. Bis bald & bleibt gesund!
 
-Wir starten um **18:00 Uhr**.
+~~Am **16. April 2020** laden wir euch zu unserem **34. Magento Meetup** in Österreich ein! Diesmal sind wir zum ersten Mal zu Gast in Salzburg, im LOOP Office. Wir hoffen, viele von euch zu sehen!~~
+
 
 **Note**: the talks will be held in English or German, depending on our speakers and attendees.
