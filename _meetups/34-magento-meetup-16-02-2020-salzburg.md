@@ -1,27 +1,44 @@
 ---
 meetup_number: '34'
-meetup_date: '2020-04-16'
-meetup_city: 'Salzburg'
+meetup_date: '2022-10-19'
+meetup_city: 'Wien'
 subtitle: ''
 done: 'no'
 agenda:
   - '18:00: Einlass'
-  - '**Magento News** von Anna Völkl und Matthias Glitzner-Zeis'
-  - 'Talk 1: **Using Magento 2 ViewModels for cleaner and faster code** von Arjus Dashi (English)'
-  - 'Talk 2: to be announced soon!'
+  - 'Talk 1: **Headless CMS for Magento using Hyvä and Storyblok** von Matthias Glitzner-Zeis'
   - 'Cosy chatting and networking'
 registrations:
   - xing: 
-  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/268767925/
+  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/287981396/
   - facebook: 
  
 ---
 
-Hallo!
+Liebe Magento Community,
 
-Update. Aufgrund der aktuellen Lage betreffend **Coronavirus/COVID-19** werden wir das Meetup am 16. April in Salzburg auf einen anderen Zeitpunkt **verschieben**. Wir haben bereits einen neuen Termin im Auge, werden aber noch abwarten, wie sich die Lage entwickelt. Bis bald & bleibt gesund!
+der Magento Stammtisch kommt am 19.10.2022 zurück nach Wien! Als Event von Entwicklern für Entwickler habt ihr die Möglichkeit, euch in gemütlicher Atmosphäre zu aktuellen Themen rund um Magento auszutauschen. Wie immer erwarten euch spannende Vorträge und ausreichend Zeit für Networking. Für Snacks und Getränke ist natürlich auch gesorgt. Wir freuen uns auf den Erfahrungs-, Meinungs- und Wissensaustausch mit euch.
 
-~~Am **16. April 2020** laden wir euch zu unserem **34. Magento Meetup** in Österreich ein! Diesmal sind wir zum ersten Mal zu Gast in Salzburg, im LOOP Office. Wir hoffen, viele von euch zu sehen!~~
+## Agenda
 
+Wir freuen uns sehr, dass wir für das Revival des Wiener Magento Stammtischs tolle Speaker gewinnen konnten. Mit dabei ist bereits Matthias Glitzner-Zeis, CTO bei LIMESODA, der einen Vortrag zum Thema Headless CMS for Magento using Hyvä and Storyblok halten wird. Weitere Speaker und Vorträge werden in Kürze bekanntgegeben.
 
-**Note**: the talks will be held in English or German, depending on our speakers and attendees.
+Außerdem gibt es während und nach den Vorträgen natürlich ausreichend Zeit für Networking.
+
+## Save your seat!
+
+Damit wir Getränke und Essen entsprechend einplanen können, meldet euch bitte rechtzeitig per Mail an stammtisch@at.phoenix-media.eu an. Die Veranstaltung ist natürlich kostenlos, die Plätze allerdings begrenzt. Wir werden das Event streamen und währenddessen Foto- und Videoaufnahmen machen, die über die Social Media Kanäle von PHOENIX MEDIA ausgespielt werden. Mit eurer Teilnahme erteilt ihr hierfür euer Einverständnis.
+
+Ihr könnt am 19.10.2022 leider nicht persönlich in Wien sein? Kein Problem! Schaltet euch gerne online dazu. Über folgenden Link könnt ihr dem MS-Teams-Meeting beitreten: https://bit.ly/3RN8h9i.
+
+## Call for paper!
+
+Ihr habt ein Thema, das ihr gerne mit dem Auditorium teilen möchtet? Kein Problem! Spannende Ideen und Vorträge sind natürlich jederzeit willkommen. Teilt eure Gedanken hierzu gerne mit uns. Für eine bessere Planung bitten wir euch, Vortragsvorschläge ebenfalls vorab per Mail an stammtisch@at.phoenix-media.eu an uns zu senden, damit wir diese mit entsprechendem Vorlauf ankündigen und ins Programm aufnehmen können. Ansonsten lassen sich natürlich auch spontane Einfälle umsetzen.
+
+Alle wichtigen Facts im Kurzüberblick
+- Datum: 19.10.2022
+- Zeit: 17:00 Uhr - 21:00 Uhr
+- Location: PHOENIX MEDIA Austria GmbH, Neutorgasse 7, 1010 Wien
+- Anmeldung: stammtisch@at.phoenix-media.eu
+
+(Meldet euch bitte unbedingt über diese E-Mail-Adresse an. Eine alleinige Zusage über MeetUp ist nicht ausreichend!)
