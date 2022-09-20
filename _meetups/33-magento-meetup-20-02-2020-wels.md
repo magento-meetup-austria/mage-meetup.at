@@ -3,7 +3,7 @@ meetup_number: '33'
 meetup_date: '2020-02-20'
 meetup_city: 'Wels'
 subtitle: ''
-done: 'no'
+done: 'yes'
 agenda:
   - '18:00: Einlass'
   - '**Magento News** von Anna Völkl und Matthias Glitzner-Zeis'
