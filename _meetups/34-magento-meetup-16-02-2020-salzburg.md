@@ -10,6 +10,8 @@ agenda:
   - 'Cosy chatting and networking'
 registrations:
   - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/287981396/
+redirect_from:
+  - /meetups/test
  
 ---
 
