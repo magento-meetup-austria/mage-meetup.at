@@ -11,7 +11,7 @@ agenda:
 registrations:
   - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/287981396/
 redirect_from:
-  - /meetups/test
+  - /meetups/34-magento-meetup-16-02-2020-salzburg
  
 ---
 
