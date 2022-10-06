@@ -2,16 +2,14 @@
 meetup_number: '34'
 meetup_date: '2022-10-19'
 meetup_city: 'Wien'
-subtitle: ''
+subtitle: 'Headless CMS mit Hyvä und Storyblok'
 done: 'no'
 agenda:
   - '18:00: Einlass'
   - 'Talk 1: **Headless CMS for Magento using Hyvä and Storyblok** von Matthias Glitzner-Zeis'
   - 'Cosy chatting and networking'
 registrations:
-  - xing: 
   - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/287981396/
-  - facebook: 
  
 ---
 
@@ -29,7 +27,7 @@ Außerdem gibt es während und nach den Vorträgen natürlich ausreichend Zeit f
 
 Damit wir Getränke und Essen entsprechend einplanen können, meldet euch bitte rechtzeitig per Mail an stammtisch@at.phoenix-media.eu an. Die Veranstaltung ist natürlich kostenlos, die Plätze allerdings begrenzt. Wir werden das Event streamen und währenddessen Foto- und Videoaufnahmen machen, die über die Social Media Kanäle von PHOENIX MEDIA ausgespielt werden. Mit eurer Teilnahme erteilt ihr hierfür euer Einverständnis.
 
-Ihr könnt am 19.10.2022 leider nicht persönlich in Wien sein? Kein Problem! Schaltet euch gerne online dazu. Über folgenden Link könnt ihr dem MS-Teams-Meeting beitreten: https://bit.ly/3RN8h9i.
+Ihr könnt am 19.10.2022 leider nicht persönlich in Wien sein? Kein Problem! Schaltet euch gerne online dazu. Über folgenden Link könnt ihr dem MS-Teams-Meeting beitreten: [https://bit.ly/3RN8h9i]
 
 ## Call for paper!
 
@@ -42,3 +40,11 @@ Alle wichtigen Facts im Kurzüberblick
 - Anmeldung: stammtisch@at.phoenix-media.eu
 
 (Meldet euch bitte unbedingt über diese E-Mail-Adresse an. Eine alleinige Zusage über MeetUp ist nicht ausreichend!)
+
+## COVID-19-Sicherheitsmaßnahmen
+
+Das Event findet in einem Gebäude statt.
+
+- Bitte besuche die Veranstaltung nur, wenn du dich gesund fühlst und keine typischen Symptome einer COVID-Infektion aufweist
+- Wir empfehlen die Durchführung eines Antigen-Schnelltests vor dem Besuch der Veranstaltung
+- Wir werden die Räumlichkeiten vor und nach der Veranstaltung, sowie während der Pausen ausreichend lüften
