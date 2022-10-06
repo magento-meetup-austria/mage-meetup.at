@@ -27,7 +27,7 @@ Außerdem gibt es während und nach den Vorträgen natürlich ausreichend Zeit f
 
 Damit wir Getränke und Essen entsprechend einplanen können, meldet euch bitte rechtzeitig per Mail an stammtisch@at.phoenix-media.eu an. Die Veranstaltung ist natürlich kostenlos, die Plätze allerdings begrenzt. Wir werden das Event streamen und währenddessen Foto- und Videoaufnahmen machen, die über die Social Media Kanäle von PHOENIX MEDIA ausgespielt werden. Mit eurer Teilnahme erteilt ihr hierfür euer Einverständnis.
 
-Ihr könnt am 19.10.2022 leider nicht persönlich in Wien sein? Kein Problem! Schaltet euch gerne online dazu. Über folgenden Link könnt ihr dem MS-Teams-Meeting beitreten: [https://bit.ly/3RN8h9i]
+Ihr könnt am 19.10.2022 leider nicht persönlich in Wien sein? Kein Problem! Schaltet euch gerne online dazu. Über folgenden Link könnt ihr dem MS-Teams-Meeting beitreten: [https://bit.ly/3RN8h9i](https://bit.ly/3RN8h9i)
 
 ## Call for paper!
 
