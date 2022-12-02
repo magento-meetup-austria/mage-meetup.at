@@ -12,4 +12,6 @@ registrations:
 Hallo!
 
 Unser erstes Meetup im Jahr 2023 wird die Agentur LOOP in Salzburg veranstalten. Geplant ist das Treffen für
-Jänner oder Februar. Sobald wir Details haben, lassen wir es euch wissen!
+Jänner oder Februar.
+
+Sobald wir Details haben, lassen wir es euch wissen!
