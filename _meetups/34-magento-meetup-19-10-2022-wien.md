@@ -3,10 +3,12 @@ meetup_number: '34'
 meetup_date: '2022-10-19'
 meetup_city: 'Wien'
 subtitle: 'Headless CMS mit Hyvä und Storyblok'
-done: 'no'
+done: 'yes'
 agenda:
   - '18:00: Einlass'
-  - 'Talk 1: **Headless CMS for Magento using Hyvä and Storyblok** von Matthias Glitzner-Zeis'
+  - 'Talk 1: **Roadmap von Adobe Commerce** ([Video](https://www.youtube.com/watch?v=TgkRseJ1Qxs)) von John Baxendale'
+  - 'Talk 2: **[Headless CMS for Magento using Hyvä and Storyblok](https://www.slideshare.net/mzeis/headless-cms-for-magento-using-hyv-and-storyblok)** ([Video](https://www.youtube.com/watch?v=j4otERsBZes)) von Matthias Glitzner-Zeis'
+  - 'Talk 3: **How to make code quality a habit** ([Video](https://www.youtube.com/watch?v=BHC4FDK2Tqw)) von Andreas Schrammel'
   - 'Cosy chatting and networking'
 registrations:
   - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/287981396/
