@@ -2,11 +2,13 @@
 meetup_number: '35'
 meetup_date: '2023-03-30'
 meetup_city: 'Wien'
-subtitle: ''
+subtitle: 'Varnish, CI/CD in AWS und PWA'
 done: 'no'
 agenda:
   - '18:00: Einlass'
   - 'Talk 1: **Optimierung der Magento 2 Varnish Konfiguration** von Thomas Negeli'
+  - 'Talk 2: **"CI/DI for Adobe Commerce using AWS Pipeline** von Anton Sannikov'
+  - 'Talk 3: **Why would you build a Magento PWA?** von Adam Jedlička'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/291905661/
@@ -18,14 +20,25 @@ Hallo!
 Unser erstes Meetup in diesem Jahr veranstaltet LIMESODA in Wien. Vielen Dank für das Sponsoring von
 Location, Essen und Getränken!
 
+Wir freuen uns auf viele Teilnehmer:innen und spannende Gespräche!
+
 ## Agenda
 
-Im ersten Talk gibt Thomas Negeli einige Empfehlungen zur **Optimierung der
-Magento 2 Varnish Konfiguration** gegenüber dem standardmäßig mitgelieferten Setup.
+Im ersten Talk gibt Thomas Negeli von [LIMESODA](https://www.limesoda.com/e-commerce/agentur) Empfehlungen zur
+**Optimierung der Magento 2 Varnish Konfiguration** gegenüber dem standardmäßig mitgelieferten Setup.
+
+Danach präsentiert Anton Sannikov ([Linkedin](https://www.linkedin.com/in/anton-sannikov/) von
+[KaWa commerce](https://www.kawa-commerce.com/) die Einrichtung von AWS CI/CD für Magento. Zentrale Aspekte sind
+Stabilität, Einsparungen und Effizienz. Im Verlauf der Präsentation werden hilfreiche Erkenntnisse und Tipps vermittelt,
+wie die Pipeline-Konfiguration optimiert und die Arbeitsqualität mithilfe von AWS CI/CD für Magento verbessert werden
+kann.
+
+Als dritter Speaker beantwortet Adam Jedlička von [Storefront X](https://www.storefrontx.io/) die Frage: "Why would you
+build a Magento PWA?"
 
 ## Talks gesucht!
 
-Du hast ein Thema für dieses oder eines der nächsten Meetups? Bitte melde dich gerne bei uns! :-)
+Du hast ein Thema für eines unserer nächsten Meetups? Bitte melde dich gerne bei uns! :-)
 
 ## COVID-19-Sicherheitsmaßnahmen
 
