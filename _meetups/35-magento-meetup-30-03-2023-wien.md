@@ -27,7 +27,7 @@ Wir freuen uns auf viele Teilnehmer:innen und spannende Gespräche!
 Im ersten Talk gibt Thomas Negeli von [LIMESODA](https://www.limesoda.com/e-commerce/agentur) Empfehlungen zur
 **Optimierung der Magento 2 Varnish Konfiguration** gegenüber dem standardmäßig mitgelieferten Setup.
 
-Danach präsentiert Anton Sannikov ([Linkedin](https://www.linkedin.com/in/anton-sannikov/) von
+Danach präsentiert Anton Sannikov ([Linkedin](https://www.linkedin.com/in/anton-sannikov/)) von
 [KaWa commerce](https://www.kawa-commerce.com/) die **Einrichtung von AWS CI/CD für Magento**. Zentrale Aspekte sind
 Stabilität, Einsparungen und Effizienz. Im Verlauf der Präsentation werden hilfreiche Erkenntnisse und Tipps vermittelt,
 wie die Pipeline-Konfiguration optimiert und die Arbeitsqualität mithilfe von AWS CI/CD für Magento verbessert werden
