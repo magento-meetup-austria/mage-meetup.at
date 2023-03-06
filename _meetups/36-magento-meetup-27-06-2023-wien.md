@@ -1,6 +1,6 @@
 ---
 meetup_number: '36'
-meetup_date: '2023-05-xx'
+meetup_date: '2023-06-27'
 meetup_city: 'Wien'
 subtitle: ''
 done: 'no'
