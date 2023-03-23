@@ -7,7 +7,7 @@ done: 'no'
 agenda:
   - '18:00: Einlass'
   - 'Talk 1: **Optimierung der Magento 2 Varnish Konfiguration** von Thomas Negeli'
-  - 'Talk 2: **"CI/DI for Adobe Commerce using AWS Pipeline** von Anton Sannikov'
+  - 'Talk 2: **CI/DI for Adobe Commerce using AWS Pipeline** von Anton Sannikov'
   - 'Talk 3: **Why would you build an Adobe Commerce/Magento Headless (PWA)?** von Adam Jedlička'
   - 'Plaudern und Networking'
 registrations:
