@@ -8,7 +8,7 @@ agenda:
   - '18:00: Einlass'
   - 'Talk 1: **Optimierung der Magento 2 Varnish Konfiguration** von Thomas Negeli'
   - 'Talk 2: **CI/DI for Adobe Commerce using AWS Pipeline** von Anton Sannikov'
-  - 'Talk 3: **Why would you build an Adobe Commerce/Magento Headless (PWA)?** von Adam Jedlička'
+  - 'Talk 3: **Why would you build an Adobe Commerce/Magento Headless (PWA)?** von Marek Kubacak'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/291905661/
@@ -33,10 +33,10 @@ Stabilität, Einsparungen und Effizienz. Im Verlauf der Präsentation werden hil
 wie die Pipeline-Konfiguration optimiert und die Arbeitsqualität mithilfe von AWS CI/CD für Magento verbessert werden
 kann.
 
-Als dritter Speaker beantwortet Adam Jedlička von [Storefront X](https://www.storefrontx.io/) die Frage: "**Why would
+Als dritter Speaker beantwortet Marek Kubacak von [Storefront X](https://www.storefrontx.io/) die Frage: "**Why would
 you build an Adobe Commerce/Magento Headless (PWA)?**"
 
-Adam beschreibt seinen Talk so:
+Marek beschreibt seinen Talk so:
 
 > Headless (PWA) is the future for online (not just Adobe/Magento). While building our own open source headless PWA
 > StoreFront X for Magento, we learned a lot of things. In this talk, I would like to explain why we developed our own
