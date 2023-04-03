@@ -3,7 +3,7 @@ meetup_number: '35'
 meetup_date: '2023-03-30'
 meetup_city: 'Wien'
 subtitle: 'Varnish, CI/CD in AWS und PWA'
-done: 'no'
+done: 'yes'
 agenda:
   - '18:00: Einlass'
   - 'Talk 1: **Optimierung der Magento 2 Varnish Konfiguration** von Thomas Negeli'
