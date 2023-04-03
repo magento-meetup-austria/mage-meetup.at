@@ -35,7 +35,7 @@ website.</p>
 
 <h3 id="location-vienna">Wien (Vienna)</h3>
 
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJv4Wc-NwHbUcRcLeIfuZb_Wc&key=AIzaSyB4feGb0vUj4ejiTbP0TsW7U0NCy8cqA6Y" allowfullscreen></iframe> 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.3927124793518!2d16.335352015990424!3d48.2183121535129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07dcf89c85bf%3A0x67fd5be67e88b770!2sLIMESODA%20Webagentur!5e0!3m2!1sde!2sat!4v1680533197719!5m2!1sde!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-controls">
     <div class="slides"></div>
