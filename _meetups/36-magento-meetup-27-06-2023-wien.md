@@ -26,7 +26,7 @@ Außerdem gibt es während und nach den Vorträgen natürlich ausreichend Zeit f
 
 Damit wir Getränke und Essen entsprechend einplanen können, meldet euch bitte rechtzeitig an. Die Veranstaltung ist natürlich kostenlos, die Plätze allerdings begrenzt. Wir werden das Event streamen und währenddessen Foto- und Videoaufnahmen machen, die über die Social Media Kanäle von PHOENIX MEDIA ausgespielt werden. Mit eurer Teilnahme erteilt ihr hierfür euer Einverständnis.
 
-Ihr könnt am 27.06.2023 leider nicht persönlich in Wien sein? Kein Problem! Schaltet euch gerne online dazu. Über folgenden Link könnt ihr dem MS-Teams-Meeting beitreten: https://bit.ly/3KO95bu.
+Ihr könnt am 27.06.2023 leider nicht persönlich in Wien sein? Kein Problem! Schaltet euch gerne online dazu. Über folgenden Link könnt ihr dem MS-Teams-Meeting beitreten: [https://bit.ly/3KO95bu](https://bit.ly/3KO95bu)
 
 Bitte beachten: Anmeldeschluss ist Freitag, der 23.06.2023.
 
