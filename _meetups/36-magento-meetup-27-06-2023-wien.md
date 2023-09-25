@@ -3,7 +3,7 @@ meetup_number: '36'
 meetup_date: '2023-06-27'
 meetup_city: 'Wien'
 subtitle: 'Vue Storefront 2 and beyond'
-done: 'no'
+done: 'yes'
 agenda:
   - 'Talk 1: **Vue Storefront 2 and beyond** von Filip Rakowski'
   - 'Plaudern und Networking'
