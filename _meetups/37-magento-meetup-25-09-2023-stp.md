@@ -3,7 +3,7 @@ meetup_number: '37'
 meetup_date: '2023-09-25'
 meetup_city: 'St. Pölten'
 subtitle: 'Magento Data Empowerment'
-done: 'no'
+done: 'yes'
 agenda:
   - 'Talk 1: **Magento News** von Anna Völkl und Matthias Zeis'
   - 'Talk 2: **Magento Data Empowerment: A (not) BI Solution** von Benjamin Rosenberger'
