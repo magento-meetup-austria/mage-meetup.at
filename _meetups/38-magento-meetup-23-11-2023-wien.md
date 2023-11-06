@@ -2,10 +2,10 @@
 meetup_number: '38'
 meetup_date: '2023-11-23'
 meetup_city: 'Wien'
-subtitle: 'TBD'
+subtitle: 'Extending entities'
 done: 'no'
 agenda:
-  - 'Talks werden bald angekündigt'
+  - 'Talk: **From Core to Custom: A Deep Dive into Magento Entity Extension** von Ivan Cuk'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/296765018/
@@ -21,7 +21,9 @@ Wir freuen uns auf viele Teilnehmer:innen und spannende Gespräche!
 
 ## Agenda
 
-Wir werden die Talks bald ankündigen.
+Unser erster Speaker ist **Ivan Cuk** von LIMESODA. Er hält seinen Talk auf Englisch und kündigt an:
+
+> In 'From Core to Custom: A Deep Dive into Magento Entity Extension,' we'll explore advanced techniques for extending Magento entities, focusing on best practices and recommended approaches.
 
 ## Save your seat!
 
