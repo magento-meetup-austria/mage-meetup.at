@@ -6,6 +6,7 @@ subtitle: 'Extending entities'
 done: 'no'
 agenda:
   - 'Talk: **From Core to Custom: A Deep Dive into Magento Entity Extension** von Ivan Cuk'
+  - 'Lightning talk: **captcha.eu: a new GDRP compliant, privacy by default bot detection made and hosted in Austria** von Helmut Januschka'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/296765018/
@@ -24,6 +25,12 @@ Wir freuen uns auf viele Teilnehmer:innen und spannende Gespräche!
 Unser erster Speaker ist **Ivan Cuk** von LIMESODA. Er hält seinen Talk auf Englisch und kündigt an:
 
 > In 'From Core to Custom: A Deep Dive into Magento Entity Extension,' we'll explore advanced techniques for extending Magento entities, focusing on best practices and recommended approaches.
+
+Der zweite Talk kommt von **Helmut Januschka**, Head of Engineering bei krone.at, Web Veteran und Captcha Enthusiast.
+Er spricht auf Deutsch oder Englisch (je nach Wunsch der Teilnehmer:innen) und stellt captcha.eu vor, das für Magento -
+oder auch andere Systeme - verwendet werden kann:
+
+> a new GDPR compliant, privacy by default bot detection made and hosted in austria.
 
 ## Save your seat!
 
