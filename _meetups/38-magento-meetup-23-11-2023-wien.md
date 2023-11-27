@@ -3,7 +3,7 @@ meetup_number: '38'
 meetup_date: '2023-11-23'
 meetup_city: 'Wien'
 subtitle: 'Extending entities'
-done: 'no'
+done: 'yes'
 agenda:
   - 'Talk: **From Core to Custom: A Deep Dive into Magento Entity Extension** von Ivan Cuk'
   - 'Lightning talk: **captcha.eu: a new GDRP compliant, privacy by default bot detection made and hosted in Austria** von Helmut Januschka'
