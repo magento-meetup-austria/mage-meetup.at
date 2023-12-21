@@ -5,10 +5,14 @@ meetup_city: 'Wien'
 subtitle: 'Extending entities'
 done: 'yes'
 agenda:
-  - 'Talk: **From Core to Custom: A Deep Dive into Magento Entity Extension** von Ivan Cuk'
+  - 'Talk: **[From Core to Custom: A Deep Dive into Magento Entity Extension](https://de.slideshare.net/magentomeetupaustria/38-magento-meetup-austria-ivan-cuk-from-core-to-custom-a-deep-deive-into-magento-entity-extension)** von Ivan Cuk'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/296765018/
+gallery:
+  - 'images/magento-meetup-38/01.jpg'
+  - 'images/magento-meetup-38/02.jpg'
+  - 'images/magento-meetup-38/03.jpg'
 
 ---
 

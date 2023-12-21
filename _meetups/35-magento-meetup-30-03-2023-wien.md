@@ -6,9 +6,9 @@ subtitle: 'Varnish, CI/CD in AWS und PWA'
 done: 'yes'
 agenda:
   - '18:00: Einlass'
-  - 'Talk 1: **Optimierung der Magento 2 Varnish Konfiguration** von Thomas Negeli' https://docs.google.com/presentation/d/1EBX8idawaVmdLJLPynBPgpCMIP_iDjgPA1PKCIrh5_U/edit#slide=id.gb2a75114d4_0_68
-  - 'Talk 2: **CI/DI for Adobe Commerce using AWS Pipeline** von Anton Sannikov' Siehe: [AWS-Pipeline.pptx](..%2F..%2F..%2F..%2Fhome%2Fmatthias%2FDownloads%2FMagento%20Meetup%20Austria%2035%20%282023-03-30%29%2FAWS-Pipeline.pptx)
-  - 'Talk 3: **Why would you build an Adobe Commerce/Magento Headless (PWA)?** von Marek Kubacak' Siehe: [Why would you build a Magento PWA .pdf](..%2F..%2F..%2F..%2Fhome%2Fmatthias%2FDownloads%2FMagento%20Meetup%20Austria%2035%20%282023-03-30%29%2FWhy%20would%20you%20build%20a%20Magento%20PWA%20.pdf)
+  - 'Talk 1: **Optimierung der Magento 2 Varnish Konfiguration** von Thomas Negeli'
+  - 'Talk 2: **CI/DI for Adobe Commerce using AWS Pipeline** von Anton Sannikov'
+  - 'Talk 3: **Why would you build an Adobe Commerce/Magento Headless (PWA)?** von Marek Kubacak'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/291905661/
