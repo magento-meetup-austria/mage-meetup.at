@@ -3,7 +3,7 @@ meetup_number: '41'
 meetup_date: '2025-04-23'
 meetup_city: 'Wien'
 subtitle: 'Open Telemetry'
-done: 'noe'
+done: 'no'
 agenda:
   - 'Talk: **https://www.meetup.com/magento-meetup-austria/events/306415938/** von Konrad Androsch'
   - 'Plaudern und Networking'
