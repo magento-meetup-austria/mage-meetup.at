@@ -39,7 +39,7 @@ oder auch andere Systeme - verwendet werden kann:
 
 ## Save your seat!
 
-Damit wir Getränke und Essen entsprechend einplanen können, meldet euch bitte rechtzeitig an. Die Veranstaltung ist natürlich kostenlos, die Plätze allerdings begrenzt. Wir beim Event Foto- und Videoaufnahmen machen, die über die Social Media Kanäle von Magento Meetup und LIMESODA ausgespielt werden. Mit eurer Teilnahme erteilt ihr hierfür euer Einverständnis.
+Damit wir Getränke und Essen entsprechend einplanen können, meldet euch bitte rechtzeitig an. Die Veranstaltung ist natürlich kostenlos, die Plätze allerdings begrenzt. Wir machen beim Event Foto- und Videoaufnahmen, die über die Social Media Kanäle von Magento Meetup und LIMESODA ausgespielt werden. Mit eurer Teilnahme erteilt ihr hierfür euer Einverständnis.
 
 **Alle wichtigen Facts im Kurzüberblick**
 
