@@ -5,7 +5,7 @@ meetup_city: 'Wien'
 subtitle: 'Open Telemetry'
 done: 'no'
 agenda:
-  - 'Talk: **https://www.meetup.com/magento-meetup-austria/events/306415938/** von Konrad Androsch'
+  - 'Talk: **Application Observability mittels OpenTelemetry** von Konrad Androsch'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/magento-meetup-austria/events/306415938/
