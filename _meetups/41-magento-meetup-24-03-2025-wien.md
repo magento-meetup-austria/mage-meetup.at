@@ -2,7 +2,7 @@
 meetup_number: '41'
 meetup_date: '2025-04-23'
 meetup_city: 'Wien'
-subtitle: 'Open Telemetry'
+subtitle: 'Hyvä Commerce und Open Telemetry'
 done: 'no'
 agenda:
   - 'Talk: **Application Observability mittels OpenTelemetry** von Konrad Androsch'
