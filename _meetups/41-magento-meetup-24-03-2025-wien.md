@@ -6,6 +6,7 @@ subtitle: 'Open Telemetry'
 done: 'no'
 agenda:
   - 'Talk: **Application Observability mittels OpenTelemetry** von Konrad Androsch'
+  - 'Talk: **Hyvä Commerce** von Andreas von Studnitz'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/magento-meetup-austria/events/306415938/
@@ -28,9 +29,10 @@ Hier habt ihr die Möglichkeit, euch in gemütlicher Atmosphäre zu aktuellen Th
   Eine kurze Einführung in den OTel Standard und eine Erklärung zu Logs, Metrics und Traces. Egal, ob cloud-native Microservice-Applikation oder Monolith: Observability kann mit wenig Aufwand erreicht werden.
   
   Bonus: Kurze Demo einer Auto-Instrumentation in eine bestehende Applikation (Magento)
-* 18:00 Uhr: Vortrag 2
+* 18:30 Uhr: **Hyvä Commerce** von Andreas von Studnitz
   
-  **Hier haben wir noch einen Platz frei. Wenn du einen Talk halten möchtest, melde dich bitte bei uns!**
+  Fast jede:r im Magento-Bereich kennt bereits das Hyvä Theme - die Rettung des Magento-Ökosystems, wenn es um moderne und flotte Shop-Frontends geht. Nach Hyvä Checkout, Hyvä Enterprise und co. folgt der nächste Streich: Hyvä Commerce setzt auf Magento Open Source auf und bringt ein verbessertes CMS, einen Bild-Editor und vieles, vieles mehr!
+
 * Essen, Trinken, und jede Menge Zeit für Gespräche
 
 
