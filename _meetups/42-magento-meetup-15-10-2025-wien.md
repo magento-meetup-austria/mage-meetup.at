@@ -3,11 +3,16 @@ meetup_number: '42'
 meetup_date: '2025-10-15'
 meetup_city: 'Wien'
 subtitle: 'KI im E-Commerce und in der Software-Entwicklung'
-done: 'no'
+done: 'yes'
 agenda:
   - 'Talk: **From Prompt to Product: How AI Guides Developers to Build Better Software** von Adam Varga'
   - 'Austausch: Eure Erfahrungen mit KI im E-Commerce'
   - 'Plaudern und Networking'
+gallery:
+  - 'images/magento-meetup-42/01.jpg'
+  - 'images/magento-meetup-42/02.jpg'
+  - 'images/magento-meetup-42/03.jpg'
+  - 'images/magento-meetup-42/04.jpg'
 registrations:
 
 ---
