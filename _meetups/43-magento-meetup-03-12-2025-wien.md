@@ -5,7 +5,8 @@ meetup_city: 'Wien'
 subtitle: 'KI'
 done: 'no'
 agenda:
-  - 'Talk von Adam Varga (Thema wird noch bekanntgegeben)'
+  - 'Talk: **From AI Chatbot to Intelligent AI Assistant** von Björn Kraus und Adam Varga'
+  - 'Talk: **The Context Window Problem: Building Efficient AI-Powered Developer Workflows** von Reinhard Lamprecht'
   - 'Plaudern und Networking'
 registrations:
  - meetup: https://www.meetup.com/de-DE/magento-meetup-austria/events/311744123/
@@ -23,7 +24,10 @@ In gemütlicher, weihnachtlicher Atmosphäre mit kleinen, köstlichen Leckereien
 ## Agenda
 
 * 17:00 Uhr: Einlass
-* Talk von Adam Varga, Magento-Entwickler bei PHOENIX MEDIA Austria GmbH (Thema wird sobald wie möglich verkündet)
+* **From AI Chatbot to Intelligent AI Assistant** von Björn Kraus und Adam Varga
+  Die Entwicklung von einfachen Chatbots zu intelligenten KI-Assistenten unter Verwendung von LLMs und RAG (Retrieval-Augmented Generation). Während der Präsentation zeigen sie auf, wie E-Commerce-Unternehmen diese Technologien nutzen können, um Echtzeit-Produktinformationen, personalisierte Empfehlungen und intelligentere Kundeninteraktionen bereitzustellen.
+* **The Context Window Problem: Building Efficient AI-Powered Developer Workflows** von Reinhard Lamprecht
+  KI-Codierungsassistenten versprechen, unsere Entwicklungsabläufe zu revolutionieren, aber es gibt einen Haken: Kontextfenster füllen sich schnell. In diesem Vortrag zeigt er, warum die Integration mehrerer Tools (Jira, Confluence, GitLab) über MCP-Server bis zu 90 % des Kontexts Ihres KI-Assistenten beanspruchen kann, bevor überhaupt mit der Arbeit begonnen wurde, und was dagegen getan werden kann.
 * Essen, Trinken und jede Menge Zeit für Gespräche
 
 Vielen Dank an PHOENIX MEDIA für das Sponsoring von Location, Essen und Getränken!
