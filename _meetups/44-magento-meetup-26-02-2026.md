@@ -2,7 +2,7 @@
 meetup_number: '44'
 meetup_date: '2026-02-26'
 meetup_city: 'St. Pölten'
-subtitle: 'Magento Data Empowerment'
+subtitle: 'Magento News'
 done: 'no'
 agenda:
   - 'Talk 1: **Magento News** von Anna Völkl  und Matthias Zeis'
