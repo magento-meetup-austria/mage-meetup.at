@@ -3,7 +3,7 @@ meetup_number: '43'
 meetup_date: '2025-12-03'
 meetup_city: 'Wien'
 subtitle: 'KI'
-done: 'no'
+done: 'yes'
 agenda:
   - 'Talk: **From AI Chatbot to Intelligent AI Assistant** von Björn Kraus und Adam Varga'
   - 'Talk: **The Context Window Problem: Building Efficient AI-Powered Developer Workflows** von Reinhard Lamprecht'
