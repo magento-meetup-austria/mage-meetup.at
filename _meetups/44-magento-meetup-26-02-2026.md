@@ -6,7 +6,7 @@ subtitle: 'Magento News'
 done: 'no'
 agenda:
   - 'Talk 1: **Magento News** von Anna Völkl  und Matthias Zeis'
-  - 'Talk 2: **folgt**'
+  - 'Talk 2: **AI Coding like a Pro, not only Vibing** von Alexander Piglmann
   - 'Plaudern und Networking'
 registrations:
   - meetup: https://www.meetup.com/magento-meetup-austria/events/313109871
@@ -18,7 +18,11 @@ der nächste Magento Stammtisch findet am 26. Februar 2026 in St. Pölten statt.
 
 ## Agenda
 
-Nach einem Überblick über die aktuellen Magento News, freuen wir uns auf einen spannenden Vortrag.
+Nach einem Überblick über die aktuellen Magento News, freuen wir uns auf einen spannenden Vortrag:
+
+**AI Coding like a Pro, not only Vibing**
+Alexander Piglmann
+Alex zeigt, wie man verschiedene KI-Modelle und Skills auf Profi-Niveau kombiniert. Anhand konkreter Beispiele werden Best Practices demonstriert, wie man den Workflow-„Vibe“ perfekt trifft, um die Development-Speed zu maximieren und gleichzeitig eine exzellente Software-Architektur sicherzustellen.
 
 Außerdem gibt es während und nach den Vorträgen natürlich ausreichend Zeit für Networking.
 
