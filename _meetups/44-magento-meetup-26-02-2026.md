@@ -6,7 +6,7 @@ subtitle: 'Magento News'
 done: 'no'
 agenda:
   - 'Talk 1: **Magento News** von Anna Völkl  und Matthias Zeis'
-  - 'Talk 2: **AI Coding like a Pro, not only Vibing** von Alexander Piglmann
+  - 'Talk 2: **AI Coding like a Pro, not only Vibing** von Alexander Piglmann'
   - 'Plaudern und Networking'
 registrations:
   - meetup: https://www.meetup.com/magento-meetup-austria/events/313109871
